@@ -1,0 +1,16 @@
+.App{
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.name{
+  color: crimson;
+  font-style: italic;
+}
+
+.user-pic{
+  height: 250px;
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+  object-fit: cover;
+}
